@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "default Welcome to EasyBanks loans related local API"
+  contactDetails:
+    name: "Johnoe - developer"
+    email: "john@easybankc.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)523-1234

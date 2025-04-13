@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Prod Welcome to EasyBanks accounts related local API"
+  contactDetails:
+    name: "Johnoe - developer"
+    email: "john@easybankc.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)523-1234
